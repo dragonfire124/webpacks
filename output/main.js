@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("busqueda").addEventListener("click",(()=>{alert("hola mundo")}))})();
